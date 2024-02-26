@@ -1,0 +1,17 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc} 
+\usepackage{hyperref} 
+
+\begin{document}
+
+\textbf{Economic Development and Globalization:} \footnotesize \textsuperscript\ \href{https://doi.org/10.1093/qje/qjac006}{The Effects of Joining Multinational Supply Chains}, \textit{The Quarterly Journal of Economics}, 2022
+
+\begin{itemize} \scriptsize
+\item Objective: Analyze the impact of domestic firms in Costa Rica becoming first-time suppliers to multinational corporations (MNCs) on their performance metrics such as sales, employment, and productivity.
+\item Methodology \& Instrument: Utilization of detailed firm-to-firm transaction data and an event study methodology to compare the pre- and post-supply performance of firms. Propensity score matching (PSM) and productive linkages are employed to establish causality.
+\item Reason: The study aims to isolate the causal effect of becoming an MNC supplier from other confounding factors, providing insights into how integration into global supply chains affects firm-level outcomes.
+\item Data: The research compiles a comprehensive dataset combining Costa Rican firm records with transaction data to trace the evolution of firm performance following their engagement with MNCs.
+\item Results: Evidence suggests significant positive impacts on the performance of domestic firms that join multinational supply chains, including increased sales, employment, and productivity, highlighting the benefits of globalization and MNC integration for developing economies.
+\end{itemize}
+
+\end{document}
