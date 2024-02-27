@@ -1,0 +1,11 @@
+Column names:
+A: country
+B: dist
+C: year
+D: mon
+E: day
+F: hr
+G: daily_temp
+H: temp_max
+I: temp_min
+J: temp_avg
