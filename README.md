@@ -1,5 +1,5 @@
 # ECMT680
-# README for "Heat Exposure and Youth Migration in Central America and the Caribbean"
+# Replication for "Heat Exposure and Youth Migration in Central America and the Caribbean"
 
 ## Overview
 This paper investigates how environmental changes, particularly heat exposure, drive youth migration in Central America and the Caribbean. It addresses the gap in understanding the environmental drivers of migration in the region, focusing on the impact of prolonged or repeated exposure to high temperatures on inter-province migration patterns.
@@ -19,6 +19,7 @@ The findings reveal a nuanced impact of heat exposure on migration, with signifi
 
 ## Appendix
 - **Data Sources**: Migration data from censuses, daily temperature from the Global Land Data Assimilation System, GDP data from the World Bank and World Development Indicators.
+- **Datasets**: 
 - **Statistical Analysis**: Summary statistics, regression models, and standard errors are detailed in the online Appendix, highlighting the methodology's robustness and assumptions.
 - **References**: A comprehensive list of references supports the research framework and findings, including works on climate change, migration, and economic impacts.
 - **Google Colab link**:
