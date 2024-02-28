@@ -1,4 +1,4 @@
-# ECMT680
+# ECMT680-PSM Group
 # Replication for "Heat Exposure and Youth Migration in Central America and the Caribbean"
 
 ## Overview
