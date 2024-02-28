@@ -10,7 +10,10 @@ The study employs a triple difference-in-difference quasi-experimental design, u
 ## Formula
 The core of the analysis is represented by the following linear probability model formula, notated here in a simplified textual format for readability:
 
-M_ijkat = β1 (Temp_k * Age_a * After) + β2 (Temp_k * Age_a) + β3 (Temp_k * After) + β4 (Age_a * After) + θ X_ijkat + α_j + δ_t + γ_a + ε_ijkat
+$$
+M_{ijkat} = \beta_1 (Temp_k \times Age_a \times After) + \beta_2 (Temp_k \times Age_a) + \beta_3 (Temp_k \times After) + \beta_4 (Age_a \times After) + \theta X_{ijkat} + \alpha_j + \delta_t + \gamma_a + \epsilon_{ijkat}
+$$
+
 
 Where M_ijkat indicates migration within the last five years, incorporating interactions between temperature exposure, age groups, and periods.
 
