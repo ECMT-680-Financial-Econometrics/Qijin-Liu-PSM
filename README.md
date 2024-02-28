@@ -13,8 +13,7 @@ The core of the analysis is represented by the following linear probability mode
 $$
 \begin{align}
 M_{ijkat} = & \beta_1 (Temp_k \times Age_a \times After) + \beta_2 (Temp_k \times Age_a) + \\
-& \beta_3 (Temp_k \times After) + \beta_4 (Age_a \times After) + \\
-& \theta X_{ijkat} + \alpha_j + \delta_t + \gamma_a + \epsilon_{ijkat}
+& \beta_3 (Temp_k \times After) + \beta_4 (Age_a \times After) + \theta X_{ijkat} + \alpha_j + \delta_t + \gamma_a + \epsilon_{ijkat}
 \end{align}
 $$
 
