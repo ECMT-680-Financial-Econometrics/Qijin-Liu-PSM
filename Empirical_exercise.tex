@@ -36,6 +36,16 @@ Migration_{ijkat} = & \beta_1 (Temp_k \times Age_a \times After) + \beta_2 (Temp
 & + \beta_4 (Age_a \times After) + \theta X_{ijkt} + \alpha_j + \delta_t + \gamma_a + \epsilon_{ijkat}
 \end{align}
 
+Where:
+\begin{itemize}
+    \item $M_{ijkat}$ is a binary variable indicating whether individual $i$ at destination province $j$ from origin province $k$ in age group $a$ at time $t$ migrated in the last five years.
+    \item $Temp_k$ represents the temperature exposure at origin province $k$.
+    \item $Age_a$ is a vector of 10-year age indicators.
+    \item $After$ signifies the follow-up census for the country.
+    \item $X_{ijkt}$ is a vector of pre-shock variables including indicators for being male, having completed primary school, and five-year average precipitation and precipitation squared at origin.
+    \item $\alpha_j$, $\delta_t$, and $\gamma_a$ are fixed effects for origin province, year, and age group, respectively.
+    \item $\epsilon_{ijkat}$ is the error term.
+\end{itemize}
 
 \section{Results}
 The analysis reveals that heat exposure significantly influences the migration decisions of young individuals, particularly women, to provincial capitals. The findings underscore the importance of considering environmental factors in migration studies.
