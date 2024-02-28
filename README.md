@@ -22,4 +22,4 @@ The findings reveal a nuanced impact of heat exposure on migration, with signifi
 - **Datasets**: 
 - **Statistical Analysis**: Summary statistics, regression models, and standard errors are detailed in the online Appendix, highlighting the methodology's robustness and assumptions.
 - **References**: A comprehensive list of references supports the research framework and findings, including works on climate change, migration, and economic impacts.
-- **Google Colab link**:
+- **Google Colab link**:https://colab.research.google.com/drive/1B_Ol_0r0biFx47Z8TIUEX48ZTOISTmmw?usp=sharing
