@@ -1,0 +1,45 @@
+\documentclass[12pt]{article}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{hyperref}
+
+\title{Heat Exposure and Youth Migration in Central America and the Caribbean: An Empirical Analysis}
+\author{Javier Baez, German Caruso, Valerie Mueller, and Chiyu Niu}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This study examines the impact of prolonged and repeated heat exposure on inter-province youth migration in Central America and the Caribbean. Utilizing census data from several countries in the region, we investigate how environmental changes drive migration patterns, particularly among the youth.
+\end{abstract}
+
+\section{Introduction}
+The research focuses on understanding the role of heat exposure in shaping migration decisions among young populations in Central America and the Caribbean. It builds on the triple difference-in-difference (DID) design to account for various confounders affecting migration.
+
+\section{Data}
+Migration data were collected from censuses across Costa Rica, Dominican Republic, El Salvador, Haiti, Mexico, Nicaragua, and Panama. The study leverages temperature and precipitation data to create a measure of heat exposure and examines its impact on migration.
+
+\section{Methodology}
+We employ a triple DID model to assess the effects of heat exposure on youth migration, controlling for individual, provincial, and temporal fixed effects. The model is specified as follows:
+\begin{align}
+Migration_{ijkat} = & \beta_1 (Temp_k \times Age_a \times After) + \beta_2 (Temp_k \times Age_a) + \beta_3 (Temp_k \times After) \nonumber \\
+& + \beta_4 (Age_a \times After) + \theta X_{ijkt} + \alpha_j + \delta_t + \gamma_a + \epsilon_{ijkat}
+\end{align}
+
+
+\section{Results}
+The analysis reveals that heat exposure significantly influences the migration decisions of young individuals, particularly women, to provincial capitals. The findings underscore the importance of considering environmental factors in migration studies.
+
+\section{Conclusion}
+This empirical exercise highlights the significant impact of environmental changes on migration patterns among the youth in Central America and the Caribbean. The results suggest that policies aimed at mitigating heat exposure could influence migration trends.
+
+\bibliographystyle{apa}
+% Add your bibliography file here
+% \bibliography{references}
+
+\end{document}
